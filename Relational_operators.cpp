@@ -15,3 +15,17 @@ int main() {
     
   return 0;
 }
+
+//String example
+/*
+#include <iostream>
+using namespace std;
+
+int main() {
+  
+  string operand1 = "Microsoft";
+  string operand2 = "Samsung"; 
+  cout << " Is operand1 greater than operand2? " << (operand1 > operand2) << endl;
+  
+  return 0;
+} */
